@@ -1,3 +1,5 @@
+https://www.loom.com/share/bbb0a8d0c484497bb17f1d65bb7eb652
+
 # Two-Tier Architecture Deployment in Microsoft Azure
 
 ## Overview
@@ -131,3 +133,4 @@ This lab successfully demonstrates how to deploy a **secure two-tier architectur
 - Replace password authentication with SSH keys for internal access
 - Introduce a load balancer for the web tier
 - Deploy a managed database service (Azure SQL / PostgreSQL)
+
